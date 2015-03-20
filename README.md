@@ -7,5 +7,5 @@ CodeKit icon for OS X.
 * Go to Applications folder in `codekit.app`
 * Get Info on `codekit.app`
 * Drag `codekit.icns` onto it's icon at the top left of the info window.
-* Restart CodeKit application.
+* Restart `codekit.app`.
 * Enjoy!
