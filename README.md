@@ -1,2 +1,2 @@
 # CodeKit Replacement Icon
-CodeKit icon for yosemite.
+CodeKit icon for OS X.
