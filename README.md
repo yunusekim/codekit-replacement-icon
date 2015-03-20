@@ -1,1 +1,2 @@
-# CodeKit Replacement .icns
+# CodeKit Replacement Icon
+CodeKit icon for yosemite.
