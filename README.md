@@ -1,6 +1,7 @@
 # CodeKit Replacement Icon
 CodeKit icon for OS X.
 
+## Preview
 ![](https://raw.githubusercontent.com/yunusekim/codekit-replacement-icns/master/codekit-sample.png)
 
 ## Installation
@@ -8,4 +9,6 @@ CodeKit icon for OS X.
 * Get Info on `codekit.app`
 * Drag `codekit.icns` onto it's icon at the top left of the info window.
 * Restart `codekit.app`.
-* Enjoy!
+
+### Made with
+* Sketch
